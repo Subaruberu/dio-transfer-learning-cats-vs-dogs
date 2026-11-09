@@ -369,6 +369,6 @@ git push -u origin main
 
 ## 👤 Autor
 
-**Will** — projeto desenvolvido como parte do bootcamp da DIO.
+**Willian** — projeto desenvolvido como parte do bootcamp da DIO.
 
 Se este projeto te ajudou de alguma forma, deixe uma ⭐ no repositório!
