@@ -1,0 +1,14 @@
+{
+  "quick_run": false,
+  "arquitetura": "MobileNetV2",
+  "img_size": [
+    160,
+    160
+  ],
+  "batch_size": 32,
+  "n_treino": 19992,
+  "n_validacao": 2499,
+  "n_teste": 2500,
+  "epocas_fase1": 4,
+  "epocas_fase2": 5
+}
