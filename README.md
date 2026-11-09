@@ -362,7 +362,7 @@ git push -u origin main
 - [x] Script de inferência reutilizável
 - [x] Código documentado e reprodutível
 - [x] Execução completa com o dataset integral registrada no notebook
-- [ ] Publicar o repositório como público no GitHub
+- [x] Publicar o repositório como público no GitHub — [Subaruberu/dio-transfer-learning-cats-vs-dogs](https://github.com/Subaruberu/dio-transfer-learning-cats-vs-dogs)
 - [ ] Enviar o link no botão **"Entregar Projeto"** da DIO
 
 ---
